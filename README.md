@@ -9,7 +9,8 @@
 
 Firstly I created a directory named `test_dir` using `mkdir` command .
 
-![Create test_dir](screenshots/task1_1.png)
+![Create test_dir<img width="1285" height="812" alt="Screenshot 2026-10-10 123003" src="https://github.com/user-attachments/assets/dadfafa9-1271-495a-bc69-11208024b2e8" />
+](screenshots/task1_1.png)
 
 Then I created a file inside the `test_dir` names as `example.txt` using `touch` command .
 
