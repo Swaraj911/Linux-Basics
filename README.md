@@ -2,7 +2,6 @@
 
 - **Name:** Swaraj Sutradhar
 - **Module:** Linux Basics
-- **Github Repository:** [Your Repository URL](https://github.com/<your-username>/<repo-name>)
 
 ---
 
